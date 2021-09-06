@@ -2,10 +2,10 @@
     "name": "cat-s-cool-theme",
     "displayName": "cat's cool theme",
     "description": "a theme for cool cats, made by Cat",
-    "publisher": "goldyflakes"
+    "publisher": "goldyflakes",
     "version": "0.0.1",
     "author": {
-        "name": "Catherine Sangiovanni"
+        "name": "Catherine Sangiovanni",
         "email": "goldyflakes@gmail.com"
     }
     "engines": {
