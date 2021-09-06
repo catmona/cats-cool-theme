@@ -1,0 +1,21 @@
+{
+    "name": "cat-s-cool-theme",
+    "displayName": "cat's cool theme",
+    "description": "a theme for cool cats, made by Cat",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cat's Cool Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cat's Cool Theme-color-theme.json"
+            }
+        ]
+    }
+}
