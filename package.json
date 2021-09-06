@@ -6,8 +6,8 @@
     "version": "0.0.1",
     "author": {
         "name": "Catherine Sangiovanni",
-        "email": "goldyflakes@gmail.com",
-    }
+        "email": "goldyflakes@gmail.com"
+    },
     "engines": {
         "vscode": "^1.60.0"
     },
