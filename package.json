@@ -3,6 +3,10 @@
     "displayName": "cat's cool theme",
     "description": "a theme for cool cats, made by Cat",
     "version": "0.0.1",
+    "author": {
+        "name": "Catherine Sangiovanni"
+        "email": "goldyflakes@gmail.com"
+    }
     "engines": {
         "vscode": "^1.60.0"
     },
