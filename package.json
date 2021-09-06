@@ -8,6 +8,10 @@
         "name": "Catherine Sangiovanni",
         "email": "goldyflakes@gmail.com"
     },
+    "repository": {
+        "url": "https://github.com/goldyflakes/cats-cool-theme.git",
+        "type": "git"
+    },
     "engines": {
         "vscode": "^1.60.0"
     },
